@@ -23,7 +23,7 @@ add_hook("ShoppingCartValidateCheckout", 1, function($vars){
             if ($client->isEmailAddressVerified()==false)
             {
                 // message
-                return array("<b>You must first verify your email address before completing any order</b>");
+                return array("<b>Make sure you Verified your Email before proceeding with the Order.</b>");
             }
          }
     }
