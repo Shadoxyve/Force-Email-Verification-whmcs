@@ -1,4 +1,4 @@
-# Whmcs-Force-Email-Verify
+# Whmcs-Force-Email-Verification
 Simple Script For Whmcs to Force your Clients To Verify Emails and Prevent Spam Orders. (Whmcs V8 Compatible) 
 
 ## Preview
