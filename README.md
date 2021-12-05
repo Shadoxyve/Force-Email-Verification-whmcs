@@ -6,7 +6,7 @@ Simple Script For Whmcs to Force your Clients To Verify Emails and Prevent Spam 
 
 ## Steps to Install:
 
-1. Download the <a href="https://downloads.infinitz.eu.org/whmcs/Verify.php">Script</a>
+1. Download and Unzip the <a href="https://shadoxyve.tech/downloads/whmcs-verify.zip">Script</a>
 2. Edit the Script as Per Your Need.
 3. Now Go to /includes/hooks , Then Upload the Script there.
 
